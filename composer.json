@@ -1,5 +1,5 @@
 {
-    "name": "iidestiny/themes",
+    "name": "sca1235/themes",
     "description": "Laravel 5 Themes",
     "keywords": ["themes", "laravel", "caffeinated", "blade"],
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=5.6.4",
-        "caffeinated/manifest": "1.0.*",
+        "sca1235/manifest": "1.0.*",
         "illuminate/support": "5.4.*|5.5.*|5.6.*|5.7.*|5.8.*|6.*|8.*|9.*",
         "illuminate/filesystem": "5.4.*|5.5.*|5.6.*|5.7.*|5.8.*|6.*|8.*|9.*",
         "illuminate/view": "5.4.*|5.5.*|5.6.*|5.7.*|5.8.*|6.*|8.*|9.*",
